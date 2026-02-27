@@ -479,6 +479,6 @@ body,
     margin: 0 auto;
 }
 
-.form-background{
+#form-background{
      background-image: url(../images/prvcy.webp);
 }
